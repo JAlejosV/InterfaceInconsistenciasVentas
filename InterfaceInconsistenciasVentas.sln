@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceInconsistenciasVentas", "InterfaceInconsistenciasVentas\InterfaceInconsistenciasVentas.csproj", "{A335C56E-A55B-4B3E-BA06-5D3C3A9C75BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A335C56E-A55B-4B3E-BA06-5D3C3A9C75BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A335C56E-A55B-4B3E-BA06-5D3C3A9C75BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A335C56E-A55B-4B3E-BA06-5D3C3A9C75BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A335C56E-A55B-4B3E-BA06-5D3C3A9C75BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AD88CE0-66C5-4637-B488-5F7FF825AD83}
+	EndGlobalSection
+EndGlobal
